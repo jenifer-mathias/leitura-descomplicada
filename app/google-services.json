@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545707385469",
+    "project_id": "leitura-descomplicada",
+    "storage_bucket": "leitura-descomplicada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545707385469:android:a709f00f04014cc791c714",
+        "android_client_info": {
+          "package_name": "br.com.leituradescomplicada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzVK7GHsMv1V5FQKYGngx9Wuf9uHO3-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
