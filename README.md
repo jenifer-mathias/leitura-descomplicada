@@ -16,5 +16,7 @@ Rafael Junqueira Pezeiro - 32035901
 
 - Ler textos de imagens da galeria;
 - Tirar uma foto dos livros;
-- Ler os textos;
+- Ler os textos gerais;
 - Limpar conteúdo lido.
+
+[Vídeo explicativo](https://youtu.be/kAk5yE-zXGE?si=omwwWhxY7vweAVr)
